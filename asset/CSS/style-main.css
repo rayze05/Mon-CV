@@ -2,6 +2,7 @@ main{
     color: white;
     background-color: rgb(78,22,21);
     box-sizing: border-box;
+    font-family : 'Raleway', sans-serif;
 }
 
     /* debut " section 1 */
@@ -40,12 +41,7 @@ p.indent {
     font-family : 'Raleway', sans-serif;
     margin-bottom: 40px;
 }
-
-.lang{
-    font-family : 'Raleway', sans-serif;
-}    
-
-
+ 
         /* fin "section 1" */
         /* Box */
         /*a revoir pour placer mon block a coter de lautre 
