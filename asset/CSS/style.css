@@ -40,13 +40,14 @@ img {
     cursor:zoom-in;
 }
 
-ul{
+.adress-img{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     background-color: #2c1d27;
-    padding: 20px;
+    padding: 30px;
     list-style: none;
+    margin-bottom: 0px;
 }
 
 a{
@@ -66,13 +67,3 @@ li:hover div{
 }
 
      /* fin du header */
-     /* debut du main */
-
-
-
-
-
-
-
-
-
